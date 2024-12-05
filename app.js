@@ -20,3 +20,4 @@ const addNumber = (l1, l2) => {
 const a = addNumber(l1, l2);
 console.log('sum of array is:', a);
 console.log("hello guyes")
+console.log("hello guyes")
