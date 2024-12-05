@@ -18,5 +18,4 @@ const addNumber = (l1, l2) => {
     return sumArray;
 };
 const a = addNumber(l1, l2);
-
-console.log(`🚀 ~ a:`, a);
+console.log('sum of array is:', a);
