@@ -1,8 +1,5 @@
-const l1 = [9, 9, 9, 9, 9, 9, 9];
-const l2 = [9, 9, 9, 9];
-
-// const l1 = [2, 4, 3];
-// const l2 = [5, 6, 4];
+const l1 = [2, 4, 3];
+const l2 = [5, 6, 4];
 
 const addNumber = (l1, l2) => {
     let reminder = 0;
